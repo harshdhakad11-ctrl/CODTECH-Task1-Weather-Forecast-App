@@ -82,7 +82,7 @@ This application helps users check live weather conditions of any city with an e
 
 ## Home Screen
 
-![Home](screenshots/Home.png)
+![Home1](screenshots/Home1.png)
 
 ## Location_Permission
 
@@ -92,9 +92,9 @@ This application helps users check live weather conditions of any city with an e
 
 ![Search_City](screenshots/Search_City.png)
 
-## 7_Day_Forecast
+## 7-Day_Forecast
 
-![7-Day_Forecast](screenshots/7_Day_Forecast.png)
+![7-Day_Forecast](screenshots/7-Day_Forecast.png)
 
 ---
 
