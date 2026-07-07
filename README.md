@@ -86,7 +86,7 @@ This application helps users check live weather conditions of any city with an e
 
 ## Location_Permission
 
-![Location_Permission](screenshots/Location_Permission.png)
+![Location_Permission](screenshots/Location_Permision.png)
 
 ## Search Cities
 
