@@ -94,7 +94,7 @@ This application helps users check live weather conditions of any city with an e
 
 ## 7_Day_Forecast
 
-![7_Day_Forecast](screenshots/7_Day_Forecast.png)
+![7-Day_Forecast](screenshots/7_Day_Forecast.png)
 
 ---
 
