@@ -84,18 +84,19 @@ This application helps users check live weather conditions of any city with an e
 
 ![Home](screenshots/Home.png)
 
-## Splash Screen
+## Location_Permission
 
 ![Location_Permission](screenshots/Location_Permission.png)
 
-## Search Currencies
+## Search Cities
 
 ![Search_City](screenshots/Search_City.png)
 
-## History
+## 7_Day_Forecast
 
 ![7_Day_Forecast](screenshots/7_Day_Forecast.png)
 
+---
 
 # 👨‍💻 Developer
 
