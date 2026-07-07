@@ -77,6 +77,26 @@ This application helps users check live weather conditions of any city with an e
 
 ---
 
+
+# Screenshots
+
+## Splash Screen
+
+![Splash](screenshots/Splash.png)
+
+## Home Screen
+
+![Home](screenshots/Home.png)
+
+## Search Currencies
+
+![Search](screenshots/Search.png)
+
+## History
+
+![History](screenshots/History.png)
+
+
 # 👨‍💻 Developer
 
 **Harsh Dhakad**
