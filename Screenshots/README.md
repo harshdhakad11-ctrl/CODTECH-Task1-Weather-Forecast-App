@@ -1,7 +1,7 @@
 ## 📸 Screenshots
 
 ### Home Screen
-![Home](Screenshots/home1.png)
+![Home1](Screenshots/home1.png)
 
 ### Search City
 ![Search](Screenshots/Search_City.png)
