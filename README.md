@@ -80,21 +80,21 @@ This application helps users check live weather conditions of any city with an e
 
 # Screenshots
 
-## Splash Screen
-
-![Splash](screenshots/Splash.png)
-
 ## Home Screen
 
 ![Home](screenshots/Home.png)
 
+## Splash Screen
+
+![Location_Permission](screenshots/Location_Permission.png)
+
 ## Search Currencies
 
-![Search](screenshots/Search.png)
+![Search_City](screenshots/Search_City.png)
 
 ## History
 
-![History](screenshots/History.png)
+![7_Day_Forecast](screenshots/7_Day_Forecast.png)
 
 
 # 👨‍💻 Developer
